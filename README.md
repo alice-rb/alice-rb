@@ -40,15 +40,6 @@ I'm a **Junior Data Analyst** currently building my career in **Business Intelli
   
 ---
 
-## 🌍 Languages
-
-* Spanish
-* Catalan
-* English
-* Japanese (basic)
-
----
-
 ## 📫 Let's Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/alicia-ripoll/)
