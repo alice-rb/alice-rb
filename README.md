@@ -48,3 +48,4 @@ I'm a **Junior Data Analyst** currently building my career in **Business Intelli
 ---
 
 ✨ Currently learning, building projects and growing as a Data Analyst — one dataset at a time.
+👩‍🏫 I'm now learning about: Power Apps
