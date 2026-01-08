@@ -11,7 +11,8 @@ I'm a **Junior Data Analyst** currently building my career in **Business Intelli
 * 🏬 Background in **retail, logistics and operations**, with a strong business perspective
 * 🎨 Design background, with a special interest in **clear data visualization and storytelling**
 * 🚀 Motivated, curious and eager to keep improving my technical and analytical skills
-      👩‍🏫 Now learning: Power Apps
+
+  👩‍🏫 Now learning: Power Apps
 
 ---
 
