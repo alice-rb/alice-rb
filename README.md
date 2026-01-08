@@ -22,7 +22,7 @@ I'm a **Junior Data Analyst** currently building my career in **Business Intelli
 * Power BI (DAX, Power Query)
 * Microsoft Excel (advanced formulas, reporting)
 * SQL (MySQL)
-* Python (pandas, numpy, matplot, seaborn, sqlconnection)
+* Python (pandas, matplot, seaborn)
 
 **Core Skills**
 
