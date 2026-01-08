@@ -1,43 +1,43 @@
 # Hi, I'm Alicia 👋
 
-I'm a **Data Analyst** with 6+ years of experience in **retail logistics and operations**, specialized in **Business Intelligence, data visualization and reporting automation**. I combine a strong analytical background with a **design mindset**, allowing me to communicate insights clearly and effectively.
+I'm a **Junior Data Analyst** currently building my career in **Business Intelligence and data analytics**. I have hands-on experience with **Power BI, Excel, SQL and Python**, and a background in **retail and operations**, which helps me understand business needs behind the data.
 
 ---
 
-## 🔍 About Me
+## 🌱 About Me
 
-* 📊 Data Analyst focused on **Power BI, Excel, SQL and Python**
-* 🏬 Background in **retail, logistics and operations analytics**
-* 🎨 Design-trained, with a strong interest in **data storytelling and visual clarity**
-* 🔁 Experienced in **ETL processes, KPI definition and performance analysis**
-* 🚀 Data-driven and solution-oriented, always aiming for **continuous improvement**
+* 📊 Junior Data Analyst focused on **learning and growing in BI and analytics**
+* 🧠 Experience working with **Power BI dashboards and reporting automation**
+* 🏬 Background in **retail, logistics and operations**, with a strong business perspective
+* 🎨 Design background, with a special interest in **clear data visualization and storytelling**
+* 🚀 Motivated, curious and eager to keep improving my technical and analytical skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data Analysis & BI**
+**Currently working with**
 
 * Power BI (DAX, Power Query)
-* Microsoft Excel (advanced formulas, automation)
+* Microsoft Excel (advanced formulas, reporting)
 * SQL (MySQL)
-* Python (pandas, numpy, data analysis)
+* Python (pandas, numpy, matplot, seaborn, sqlconnection)
 
-**Data Skills**
+**Core Skills**
 
-* Dashboard design & interactive reporting
-* KPI definition and tracking
-* Forecasting & performance analysis
-* ETL processes
-* Data storytelling
+* Data cleaning and analysis
+* Dashboard design and reporting
+* KPI definition and performance analysis
+* Data visualization and storytelling
 
 ---
 
-## 📈 What You'll Find Here
+## 📁 What You'll Find Here
 
 * 📊 Power BI dashboards and data visualization projects
 * 🐍 Python notebooks for data analysis and automation
 * 📑 SQL queries and data modeling examples
+  
 ---
 
 ## 🌍 Languages
@@ -45,7 +45,7 @@ I'm a **Data Analyst** with 6+ years of experience in **retail logistics and ope
 * Spanish
 * Catalan
 * English
-* Japanese (just basic)
+* Japanese (basic)
 
 ---
 
@@ -56,20 +56,4 @@ I'm a **Data Analyst** with 6+ years of experience in **retail logistics and ope
 
 ---
 
-✨ Always curious, always learning, and always looking for better ways to turn data into meaningful insights.
-
-
-<!--
-**alice-rb/alice-rb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Currently learning, building projects and growing as a Data Analyst — one dataset at a time.
